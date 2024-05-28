@@ -1,7 +1,7 @@
 <h1>Hello, I'm JaconiasDev </h1>
 <br>
 <h3>conheça mais sobre mim 👨🏽‍💻</h3>
- <!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />-->
+<!--  <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" /> -->
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I am jaconiasDev, e eu amo a tecnologia ❤️ <br><br> From back-end development using Node.js to frontend development using React ou HTML5 e CSS3, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>focused on web FULLSTACK development.</p>&nbsp;
