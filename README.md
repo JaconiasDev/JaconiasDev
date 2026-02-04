@@ -1,5 +1,8 @@
-<h1 style="color: #00FF00;">Hello, I'm NOOB_x64 </h1>
-<pre style="color: red;">
+<div align="center">
+
+<h1>Hello, I'm NOOB_x64</h1>
+
+<pre>
                            __    _                          
                     _wr""        "-q__                    
                  _dP                 9m_                  
@@ -23,8 +26,10 @@
      .               _d#####^#####m__              ,      
       "*w_________am#####P"   ~9#####mw_________w*"       
           ""9@#####@M""           ""P@#####@M""           
-
 </pre>
+
+</div>
+
 
 
 
