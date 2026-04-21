@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hello, I'm NOOB_x64</h1>
+<h1>Hello, I'm NOOB_x64 | Jackal </h1>
 
 <pre>
                            __    _                          
